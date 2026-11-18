@@ -83,7 +83,7 @@ De moment, cap altre sistema extern interactua amb el sistema de La FUSTA.
 
 ##### Diagrames
 - **Diagrama 1:** els components, els programes del servidor i els actors.
-   ![Diagrama 1]<img src="diagrama_sistema_fusta_components.png" width="750">  
+   ![Diagrama 1](diagrama_sistema.png)  
   
 - **Diagrama 2:** la xarxa i el suport (switchos, tallafocs, SAI i antivirus).
-   ![Diagrama 2]<img src="diagrama_sistema_fusta_xarxa.png" width="750">
+   ![Diagrama 2](diagrama_xarxa.png) 
